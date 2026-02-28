@@ -11,12 +11,6 @@ One important feature that I intend to add to this website is the addition of a 
   - I will accomplish this through adding features that not only prioritize sharing the news in a non-biased manner but also ensure the mental health and clarity of users
   - I will also add features that encourage civil action and wider discussions with leaders and their constituents
   - various prototypes will be built to priortize simplicity and an overall enjoyable user experience. 
-📁 project-root
-├── 📁 backend          # Node.js/Express API
-├── 📁 frontend         # React app
-├── 📁 database         # SQL scripts, ER diagram
-├── 📁 docs             # Phase reports, mini‑assignment
-└── 📁 scripts          # Data collection scripts (Python, etc.)
 
 ## Phases
 1. Research
